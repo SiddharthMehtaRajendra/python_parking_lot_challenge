@@ -4,7 +4,6 @@
 
    ```bash
    # Navigate to the project directory
-   cd path/to/PythonCodingChallenge
 
    # Create a virtual environment
    python3 -m venv venv
@@ -21,7 +20,6 @@
 
 2. **Configure AWS Credentials:**
 
-   - Obtain your AWS access key ID and secret access key from the AWS Management Console.
    - Set the AWS credentials in the `.env` file which will be shared by the author.
 
      ```plaintext
@@ -41,7 +39,6 @@
 4. **Notes:**
 
    - Replace placeholder values in `.env` with the AWS credentials shared by the author.
-   - Make sure to keep your AWS credentials and sensitive information secure.
 
 ## Contributing
 
